@@ -19,10 +19,6 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 - **Step5:** Use Otsu's method to segment the image and display the results.
 
 ## Program
-```
-Developed By : J.JENISHA
-Reg.No : 212222230056
-```
 ### Load the necessary packages
 ```python
 import numpy as np
